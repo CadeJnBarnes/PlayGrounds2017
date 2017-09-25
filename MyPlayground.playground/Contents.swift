@@ -23,7 +23,7 @@ myName = "Cade"
 print(myName)
 //myName = soup
 //Can't assign into a let once assigned
-var height = 6
+var height :Int
 height = 6
 print(height)
 
